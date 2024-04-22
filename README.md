@@ -65,12 +65,8 @@
     </td>
   </tr>
 </table>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-</p>  
-
+### 📗 Cool Repositories
 <p  align="center">
 <a href="https://github.com/KobyEthan/my-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=my-portfolio&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
@@ -88,4 +84,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=note-taker-app&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</p>
+
+<p  align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
+<br>
+<p  align="center">
+<a  href="https://www.linkedin.com/in/koby-smith-mccallister-4ba0061b9/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/762859213164511244"><img  alt="Discord"  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.facebook.com/koby.smithmccallister.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
