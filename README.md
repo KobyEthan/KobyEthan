@@ -7,7 +7,7 @@
 - 📍 I’m From Kansas
 - 👨‍💻 Currently developing awesome applications to enhance my skills!
 - 💞 Open to collaboration
-- 👀 Seeking positions in web development
+- 👀 Seeking positions in software development
 - 🦍 PSU Graduate
   
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 <br>
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=00b7eb&width=900&lines=Passionate+Full-stack+Web+Developer;"  width="100%"  height="35px></a>
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=00b7eb&width=900&lines=Passionate+Full-stack+Developer;"  width="100%"  height="35px></a>
 </p>
 
 <p  align="center">
