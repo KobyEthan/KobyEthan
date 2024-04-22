@@ -1,5 +1,15 @@
 <img src="https://github.com/KobyEthan/Assets/blob/master/git-hub-banner.png"/>
 
+### Hi, I'm Koby 👋 <img align="right" src="https://komarev.com/ghpvc/?username=KobyEthan&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="KobyEthan" />
+
+## I'm an Aspiring Full Stack Developer!
+
+- 📍 I’m From Kansas
+- 👨‍💻 Currently developing awesome applications to enhance my skills!
+- 💞 Open to collaboration
+- 👀 Seeking positions in web development
+- 🦍 PSU Graduate
+  
 <div align="center">
   
   <a href="https://github.com/KobyEthan?tab=repositories&sort=stargazers">
@@ -58,4 +68,24 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </p>  
+
+<p  align="center">
+<a href="https://github.com/KobyEthan/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=my-portfolio&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/KobyEthan/persistence-list">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=persistence-list&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/KobyEthan/MERN-chat-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=MERN-chat-app&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/KobyEthan/jokeAPI-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=jokeAPI-app&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/KobyEthan/note-taker-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=note-taker-app&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+
+</p>
