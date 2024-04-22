@@ -1,6 +1,19 @@
-### Hi, I'm Koby. <img align="right" src="https://komarev.com/ghpvc/?username=KobyEthan&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="KobyEthan" />
+<img src="https://github.com/KobyEthan/Assets/blob/master/git-hub-banner.png"/>
+
+<div align="center">
+  
+  <a href="https://github.com/KobyEthan?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KobyEthan"/></a>
+    
+  <a href="https://github.com/KobyEthan?tab=repositories&sort=stargazers">
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Atravos"/></a>
+    
+  <a href="https://github.com/KobyEthan">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KobyEthan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</div>
+<br>
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=ffffff&width=900&lines=Passionate+Full-stack+Web+Developer;"  width="100%"  height="35px></a>
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=00b7eb&width=900&lines=Passionate+Full-stack+Web+Developer;"  width="100%"  height="35px></a>
 </p>
 
 <p  align="center">
@@ -8,7 +21,7 @@
 </p>  
 
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
@@ -20,7 +33,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
 
-### 🛠 Tools:
+### 🛠 Tools
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
@@ -46,10 +59,3 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-
-### Other Socials: 
-<br>
-<p  align="center">
-<a  href="https://www.linkedin.com/in/koby-smith-mccallister-4ba0061b9"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img  alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
