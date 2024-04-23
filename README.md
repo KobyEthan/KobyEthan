@@ -4,11 +4,11 @@
 
 ## I'm an Aspiring Full Stack Developer!
 
-- 📍 I’m From Kansas
-- 👨‍💻 Currently developing awesome applications to enhance my skills
-- 💞 Open to collaboration
-- 👀 Seeking positions in software development
-- 🦍 PSU Graduate
+- 📍 I’m From Kansas.
+- 👨‍💻 Currently developing applications to enhance my skills!
+- 💞 Open to collaboration.
+- 👀 Seeking positions in software development.
+- 🦍 2023 PSU Graduate.
   
 <div align="center">
   
