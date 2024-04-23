@@ -5,7 +5,7 @@
 ## I'm an Aspiring Full Stack Developer!
 
 - 📍 I’m From Kansas
-- 👨‍💻 Currently developing awesome applications to enhance my skills!
+- 👨‍💻 Currently developing awesome applications to enhance my skills
 - 💞 Open to collaboration
 - 👀 Seeking positions in software development
 - 🦍 PSU Graduate
@@ -31,7 +31,7 @@
 </p>  
 
 
-### 💻 Tech Stack
+### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
@@ -43,7 +43,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
 
-### 🛠 Tools
+### 🛠 Tools:
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
@@ -53,7 +53,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
-### ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytics:
 
 <table>
   <tr>
@@ -66,7 +66,7 @@
   </tr>
 </table>
   
-### 📗 Cool Repositories
+### 📗 Some Cool Repositories:
 <p  align="center">
 <a href="https://github.com/KobyEthan/my-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=my-portfolio&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
