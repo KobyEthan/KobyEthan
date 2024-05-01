@@ -74,6 +74,9 @@
   
 ### 📗 Some Cool Repositories:
 <p  align="center">
+  <a href="https://github.com/KobyEthan/my-portfolio-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=my-portfolio-v2&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
 <a href="https://github.com/KobyEthan/persistence-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=persistence-list&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
