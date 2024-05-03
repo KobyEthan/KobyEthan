@@ -97,7 +97,7 @@
   
 </p>
 
-<p  align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
+<p  align="center"><em>I love connecting with people so if you want to say hi, I'll be more than happy to meet you!</em></p>
 <br>
 <p  align="center">
 <a  href="https://www.linkedin.com/in/koby-smith-mccallister-4ba0061b9/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
