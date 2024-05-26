@@ -2,7 +2,7 @@
 
 ### Hi, I'm Koby 👋
 
-## I'm an Aspiring Full Stack Developer!
+## I'm a Full Stack Developer!
 
 - 📍 I’m From Kansas.
 - 👨‍💻 Currently developing applications to enhance my skills!
