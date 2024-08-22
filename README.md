@@ -1,14 +1,6 @@
-<img src="https://github.com/KobyEthan/Assets/blob/master/git-hub-banner.png"/>
-
 ### Hi, I'm Koby 👋
 
-## I'm a Full Stack Developer!
-
-- 📍 I’m From Kansas.
-- 👨‍💻 Currently developing applications to enhance my skills!
-- 💞 Open to collaboration.
-- 👀 Seeking positions in software development.
-- 🦍 2023 PSU Graduate.
+## I'm a Junior Web Developer for Pitsco Education.
   
 <div align="center">
   
@@ -23,7 +15,7 @@
 </div>
 <br>
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=00b7eb&width=900&lines=Passionate+Full-stack+Developer;"  width="100%"  height="35px></a>
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=00b7eb&width=900&lines=Passionate+Full-Stack+Developer;"  width="100%"  height="35px></a>
 </p>
 
 <p  align="center">
@@ -77,7 +69,7 @@
   </tr>
 </table>
   
-### 📗 Some Cool Repositories:
+### 📗 Some Cool Personal Projects:
 <p  align="center">
   <a href="https://github.com/KobyEthan/my-portfolio-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobyEthan&repo=my-portfolio-v2&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
